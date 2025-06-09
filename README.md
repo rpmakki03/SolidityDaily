@@ -1,0 +1,2 @@
+# SolidityDaily
+daily solidity learnings
